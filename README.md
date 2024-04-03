@@ -18,5 +18,5 @@ This program is meant for studying your own (or any other player in the provided
   - Ability to see the score of a specific player over the entire period provided by the user.
   - Ability to compare the scores of two users and see which one has the higher score.
 
-  ## Important Note
-  Due to the nature of the game, you must provide the program with your own JSON files of ranked matches. To do this, simply put all your JSON files in a folder **with nothing else in it**, and either select it in the GUI or pass its path in the make_master_dict() method in AMQFOLDERREADER.py as the argument (the latter is only needed if you intend to use PTUI only features).
+## Important Note
+Due to the nature of the game, you must provide the program with your own JSON files of ranked matches. To do this, simply put all your JSON files in a folder **with nothing else in it**, and either select it in the GUI or pass its path in the make_master_dict() method in AMQFOLDERREADER.py as the argument (the latter is only needed if you intend to use PTUI only features).
